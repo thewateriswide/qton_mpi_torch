@@ -1,2 +1,2 @@
 # qton_mpi_torch
-an improved Qton with MPI and PyTorch, which can run on HPCs
+This is a variant of Qton designed for simulating quantum circuit computations in an MPI environment. It requires support for PyTorch on the platform and preferably with CUDA devices to maximize performance. The usage instructions are similar to the basic Qton.
